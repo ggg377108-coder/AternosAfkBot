@@ -1,10 +1,10 @@
 {
-	"ip":"M5AFE3.aternos.me",
-	"port": 27086,
-	"name": "hqw11bot",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register hqw11bot hqw11bot",
-	"login-cmd":"/login hqw11bot"
-
+  "host": "M5AFE3.aternos.me",
+  "port": 27086,
+  "username": "اhqw",
+  "password": "1234",
+  "auth": "mojang",
+  "version": "1.21.8",
+  "register-cmd": "/register 1234 1234",
+  "login-cmd": "/login 1234"
 }
